@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\bin\Debug\net6.0\Aula10_POF(Parte02).exe
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\bin\Debug\net6.0\Aula10_POF(Parte02).deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\bin\Debug\net6.0\Aula10_POF(Parte02).runtimeconfig.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\bin\Debug\net6.0\Aula10_POF(Parte02).dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\bin\Debug\net6.0\Aula10_POF(Parte02).pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\refint\Aula10_POF(Parte02).dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\Aula10_POF(Parte02).genruntimeconfig.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula10_POF(Parte02)\obj\Debug\net6.0\ref\Aula10_POF(Parte02).dll
