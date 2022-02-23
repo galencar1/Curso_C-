@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\Aula07_FuncoesRecursivas.exe
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\Aula07_FuncoesRecursivas.deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\Aula07_FuncoesRecursivas.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\Aula07_FuncoesRecursivas.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\ref\Aula07_FuncoesRecursivas.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\bin\Debug\net6.0\Aula07_FuncoesRecursivas.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\ref\Aula07_FuncoesRecursivas.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula07_FuncoesRecursivas\obj\Debug\net6.0\Aula07_FuncoesRecursivas.genruntimeconfig.cache
