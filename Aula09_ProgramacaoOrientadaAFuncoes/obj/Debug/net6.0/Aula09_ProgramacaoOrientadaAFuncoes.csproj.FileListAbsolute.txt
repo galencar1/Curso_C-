@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\bin\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.exe
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\bin\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\bin\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\bin\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\bin\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\refint\Aula09_ProgramacaoOrientadaAFuncoes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\Aula09_ProgramacaoOrientadaAFuncoes.genruntimeconfig.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula09_ProgramacaoOrientadaAFuncoes\obj\Debug\net6.0\ref\Aula09_ProgramacaoOrientadaAFuncoes.dll

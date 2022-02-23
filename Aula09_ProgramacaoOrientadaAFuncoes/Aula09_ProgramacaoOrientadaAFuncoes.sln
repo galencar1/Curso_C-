@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aula09_ProgramacaoOrientadaAFuncoes", "Aula09_ProgramacaoOrientadaAFuncoes.csproj", "{634A5CB1-4D0E-4EC4-8521-C5A829BDEE70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{634A5CB1-4D0E-4EC4-8521-C5A829BDEE70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{634A5CB1-4D0E-4EC4-8521-C5A829BDEE70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{634A5CB1-4D0E-4EC4-8521-C5A829BDEE70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{634A5CB1-4D0E-4EC4-8521-C5A829BDEE70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5150A3E-514E-4E89-9DFD-50730C68E8F7}
+	EndGlobalSection
+EndGlobal
