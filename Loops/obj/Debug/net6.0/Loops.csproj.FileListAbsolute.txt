@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\Loops.exe
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\Loops.deps.json
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\Loops.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\Loops.dll
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\ref\Loops.dll
+D:\Documentos\My_Projects\C#\Loops\bin\Debug\net6.0\Loops.pdb
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.dll
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\ref\Loops.dll
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.pdb
+D:\Documentos\My_Projects\C#\Loops\obj\Debug\net6.0\Loops.genruntimeconfig.cache

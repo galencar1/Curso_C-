@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ArrayseCollections.exe
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ArrayseCollections.deps.json
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ArrayseCollections.runtimeconfig.json
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ArrayseCollections.dll
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ref\ArrayseCollections.dll
+D:\Documentos\My_Projects\C#\ArrayseCollections\bin\Debug\net6.0\ArrayseCollections.pdb
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.dll
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ref\ArrayseCollections.dll
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.pdb
+D:\Documentos\My_Projects\C#\ArrayseCollections\obj\Debug\net6.0\ArrayseCollections.genruntimeconfig.cache

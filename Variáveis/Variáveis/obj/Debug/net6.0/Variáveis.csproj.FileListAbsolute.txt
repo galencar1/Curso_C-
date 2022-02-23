@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.exe
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.deps.json
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.dll
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\ref\Variáveis.dll
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\bin\Debug\net6.0\Variáveis.pdb
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.dll
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\ref\Variáveis.dll
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.pdb
+D:\Documentos\My_Projects\C#\Variáveis\Variáveis\obj\Debug\net6.0\Variáveis.genruntimeconfig.cache

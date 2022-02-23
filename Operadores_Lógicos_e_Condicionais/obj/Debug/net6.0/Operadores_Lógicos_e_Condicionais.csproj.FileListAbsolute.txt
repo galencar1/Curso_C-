@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\Operadores_Lógicos_e_Condicionais.exe
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\Operadores_Lógicos_e_Condicionais.deps.json
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\Operadores_Lógicos_e_Condicionais.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\Operadores_Lógicos_e_Condicionais.dll
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\ref\Operadores_Lógicos_e_Condicionais.dll
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\bin\Debug\net6.0\Operadores_Lógicos_e_Condicionais.pdb
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.dll
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\ref\Operadores_Lógicos_e_Condicionais.dll
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.pdb
+D:\Documentos\My_Projects\C#\Operadores_Lógicos_e_Condicionais\obj\Debug\net6.0\Operadores_Lógicos_e_Condicionais.genruntimeconfig.cache

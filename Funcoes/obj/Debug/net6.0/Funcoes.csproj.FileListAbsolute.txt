@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\Funcoes.exe
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\Funcoes.deps.json
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\Funcoes.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\Funcoes.dll
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\ref\Funcoes.dll
+D:\Documentos\My_Projects\C#\Funcoes\bin\Debug\net6.0\Funcoes.pdb
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.dll
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\ref\Funcoes.dll
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.pdb
+D:\Documentos\My_Projects\C#\Funcoes\obj\Debug\net6.0\Funcoes.genruntimeconfig.cache
