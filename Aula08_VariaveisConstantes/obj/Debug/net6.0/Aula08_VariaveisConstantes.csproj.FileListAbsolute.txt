@@ -1,0 +1,15 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\Aula08_VariaveisConstantes.exe
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\Aula08_VariaveisConstantes.deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\Aula08_VariaveisConstantes.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\Aula08_VariaveisConstantes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\ref\Aula08_VariaveisConstantes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\bin\Debug\net6.0\Aula08_VariaveisConstantes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\ref\Aula08_VariaveisConstantes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula08_VariaveisConstantes\obj\Debug\net6.0\Aula08_VariaveisConstantes.genruntimeconfig.cache
