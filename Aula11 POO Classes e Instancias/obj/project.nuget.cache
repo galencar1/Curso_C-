@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "q3IEwvuLCt/LzopUyh+bOEazKEjGIBx0SFjZksyV9rXu0pIyKaWIoDx8Pw5GUHMF0BH/TPO8yoWxTts7HxkBdw==",
+  "success": true,
+  "projectFilePath": "D:\\Documentos\\My_Projects\\C#\\Curso_C-\\Aula11 POO Classes e Instancias\\Aula11 POO Classes e Instancias.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gabo_\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.configuration.configurationmanager\\6.0.0\\system.configuration.configurationmanager.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.security.accesscontrol\\6.0.0\\system.security.accesscontrol.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.security.cryptography.protecteddata\\6.0.0\\system.security.cryptography.protecteddata.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.security.permissions\\6.0.0\\system.security.permissions.6.0.0.nupkg.sha512",
+    "C:\\Users\\gabo_\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

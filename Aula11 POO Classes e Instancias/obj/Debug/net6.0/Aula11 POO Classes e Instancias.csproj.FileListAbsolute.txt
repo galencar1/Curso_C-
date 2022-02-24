@@ -1,0 +1,28 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.exe
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.runtimeconfig.json
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\refint\Aula11 POO Classes e Instancias.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.genruntimeconfig.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\ref\Aula11 POO Classes e Instancias.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Aula11 POO Classes e Instancias.dll.config
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula11 POO Classes e Instancias\obj\Debug\net6.0\Aula11 POO Classes e Instancias.csproj.CopyComplete
