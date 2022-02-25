@@ -11,7 +11,7 @@ namespace ProgramacaoFuncional
 
            var clientes = Cliente.LerClientes(); // Retorna todos os clientes do DB
 
-            /*
+            
             //Grava novos clientes no DB
             var cliente = new Cliente();
             cliente.Nome = "Eleven";
@@ -19,6 +19,7 @@ namespace ProgramacaoFuncional
             cliente.Id = 3;
             cliente.Gravar();
 
+            /*
             //Grava novos clientes no DB
             var cliente2 = new Cliente();
             cliente2.Nome = "Schtarden";
