@@ -35,6 +35,9 @@ namespace Classes
         //Método não estático, utilizado para um cliente (Um DADO)
         public void Gravar()
         {
+            this.Olhar();
+            return;
+
             var clientes = Cliente.LerClientes();
             clientes.Add(this);
 
@@ -107,6 +110,12 @@ namespace Classes
                 }
             }
             return clientes;
+        }
+
+        // Praticando métodos privados.
+        private void Olhar()
+        {
+            Console.WriteLine("O cliente " + this.Nome + " está olhando para mim!");
         }
     }
 }

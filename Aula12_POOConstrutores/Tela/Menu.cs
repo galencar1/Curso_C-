@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Calculo;
+using Classes;
 using Diretorio;
 using Funcoes;
 
@@ -16,6 +17,7 @@ namespace Tela
         public const int LER_ARQUIVOS = 1;
         public const int TABUADA = 2;
         public const int CALCULO_MEDIA = 3;
+        public const int CADASTRAR_CLIENTES = 4;
 
         public static void Criar()
         {
@@ -27,9 +29,10 @@ namespace Tela
                     "\n     0 - Sair do Programa" +
                     "\n     1 - Para Ler Arquivos" +
                     "\n     2 - Para Executar a Tabuada" +
-                    "\n     3 - Calcular média de Alunos";
+                    "\n     3 - Calcular média de Alunos"+
+                    "\n     4 - Cadastrar Clientes";
 
-                Console.WriteLine(mensagem);
+            Console.WriteLine(mensagem);
 
                 int valor = int.Parse(Console.ReadLine());
 
@@ -55,6 +58,11 @@ namespace Tela
                 {
                     Console.WriteLine("==========================Opção Calculo de Média=====================");
                     CalculoMedia.CalcularMediaAluno();
+                    Console.WriteLine("=====================================================================");
+                }
+                else if (valor == CADASTRAR_CLIENTES)
+                {
+                    TelaCliente.Chamar();
                     Console.WriteLine("=====================================================================");
                 }
                 else
