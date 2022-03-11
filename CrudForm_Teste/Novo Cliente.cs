@@ -16,5 +16,11 @@ namespace CrudForm_Teste
         {
             InitializeComponent();
         }
+
+        private void btnSalvar_Click(object sender, EventArgs e)
+        {
+            CadastrarCliente cad = new CadastrarCliente(txtNome.Text, txtEmail.Text, txtTelefone.Text);
+            MessageBox.Show(cad.mensagem);
+        }
     }
 }
