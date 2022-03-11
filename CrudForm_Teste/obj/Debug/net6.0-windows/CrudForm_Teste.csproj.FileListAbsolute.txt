@@ -17,3 +17,12 @@ D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\obj\Debug\net6.0-windows\Cr
 D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\obj\Debug\net6.0-windows\CrudForm_Teste.genruntimeconfig.cache
 D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\obj\Debug\net6.0-windows\ref\CrudForm_Teste.dll
 D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\obj\Debug\net6.0-windows\CrudForm_Teste.ConsultarCliente.resources
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\BouncyCastle.Crypto.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\Google.Protobuf.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\K4os.Hash.xxHash.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\MySql.Data.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\Ubiety.Dns.Core.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\bin\Debug\net6.0-windows\ZstdNet.dll
+D:\Documentos\My_Projects\C#\Curso_C-\CrudForm_Teste\obj\Debug\net6.0-windows\CrudForm_Teste.csproj.CopyComplete
