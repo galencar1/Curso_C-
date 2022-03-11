@@ -28,11 +28,15 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.txtPesqNome = new System.Windows.Forms.TextBox();
             this.btnBuscar = new System.Windows.Forms.Button();
-            this.pnConsultar = new System.Windows.Forms.Panel();
             this.btnExTodos = new System.Windows.Forms.Button();
+            this.listarClientesBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.dgvdados = new System.Windows.Forms.DataGridView();
+            ((System.ComponentModel.ISupportInitialize)(this.listarClientesBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvdados)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -62,13 +66,6 @@
             this.btnBuscar.Text = "BUSCAR";
             this.btnBuscar.UseVisualStyleBackColor = true;
             // 
-            // pnConsultar
-            // 
-            this.pnConsultar.Location = new System.Drawing.Point(12, 180);
-            this.pnConsultar.Name = "pnConsultar";
-            this.pnConsultar.Size = new System.Drawing.Size(776, 258);
-            this.pnConsultar.TabIndex = 3;
-            // 
             // btnExTodos
             // 
             this.btnExTodos.Font = new System.Drawing.Font("Showcard Gothic", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
@@ -78,19 +75,35 @@
             this.btnExTodos.TabIndex = 4;
             this.btnExTodos.Text = "EXIBIR TODOS";
             this.btnExTodos.UseVisualStyleBackColor = true;
+            this.btnExTodos.Click += new System.EventHandler(this.btnExTodos_Click);
+            // 
+            // listarClientesBindingSource
+            // 
+            this.listarClientesBindingSource.DataSource = typeof(CrudForm_Teste.ListarClientes);
+            // 
+            // dgvdados
+            // 
+            this.dgvdados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dgvdados.Location = new System.Drawing.Point(12, 180);
+            this.dgvdados.Name = "dgvdados";
+            this.dgvdados.RowTemplate.Height = 25;
+            this.dgvdados.Size = new System.Drawing.Size(776, 265);
+            this.dgvdados.TabIndex = 5;
             // 
             // ConsultarCliente
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.dgvdados);
             this.Controls.Add(this.btnExTodos);
-            this.Controls.Add(this.pnConsultar);
             this.Controls.Add(this.btnBuscar);
             this.Controls.Add(this.txtPesqNome);
             this.Controls.Add(this.label1);
             this.Name = "ConsultarCliente";
             this.Text = "ConsultarCliente";
+            ((System.ComponentModel.ISupportInitialize)(this.listarClientesBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dgvdados)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -101,7 +114,8 @@
         private Label label1;
         private TextBox txtPesqNome;
         private Button btnBuscar;
-        private Panel pnConsultar;
         private Button btnExTodos;
+        private BindingSource listarClientesBindingSource;
+        public DataGridView dgvdados;
     }
 }

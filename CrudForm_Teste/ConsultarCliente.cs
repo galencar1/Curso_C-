@@ -16,5 +16,13 @@ namespace CrudForm_Teste
         {
             InitializeComponent();
         }
+
+        private void btnExTodos_Click(object sender, EventArgs e)
+        {
+            ListarClientes lisCliente = new ListarClientes();
+            MessageBox.Show(lisCliente.mensagem);
+            
+        }
+
     }
 }
