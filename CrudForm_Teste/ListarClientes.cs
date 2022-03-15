@@ -11,17 +11,18 @@ namespace CrudForm_Teste
 {
     public class ListarClientes
     {
+
         Conexao connect = new Conexao();
         MySqlCommand comando = new MySqlCommand();
-        MySqlDataAdapter da;
+        MySqlDataAdapter da = new MySqlDataAdapter();
         DataTable dt = new DataTable();
         DataGridView DataGridView1 = new DataGridView();
         public string mensagem = "";
 
-       
+
 
         //Construtor
-        public ListarClientes()
+        public DataTable GetClientes(bool dados)
         {
             //Comando SQL - SELECT
             comando.CommandText = "SELECT * FROM clientes";
@@ -47,10 +48,11 @@ namespace CrudForm_Teste
             }
             catch (MySqlException e)
             {
-                this.mensagem = "Erro ao se conectar com o banco de dados!";
+                this.mensagem = "Erro ao se conectar com o banco de dados!" + e;
 
             }
-            
+
+            return dt;
         }
     }
 }

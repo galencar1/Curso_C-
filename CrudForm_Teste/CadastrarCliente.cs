@@ -35,7 +35,7 @@ namespace CrudForm_Teste
             }
             catch (MySqlException e)
             {
-                this.mensagem = "Erro ao se conectar com o banco de dados.";
+                this.mensagem = "Erro ao se conectar com o banco de dados." + e;
                 
             }
             

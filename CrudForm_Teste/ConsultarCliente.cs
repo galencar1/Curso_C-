@@ -12,17 +12,23 @@ namespace CrudForm_Teste
 {
     public partial class ConsultarCliente : Form
     {
+        DataTable dt = new DataTable();
+        
+        
         public ConsultarCliente()
         {
             InitializeComponent();
+            Inicializar();
+        }
+
+        private void Inicializar()
+        {
+            dt = ListarClientes.GetClientes(true);
         }
 
         private void btnExTodos_Click(object sender, EventArgs e)
         {
-            ListarClientes lisCliente = new ListarClientes();
-            MessageBox.Show(lisCliente.mensagem);
-            
+           
         }
-
     }
 }
