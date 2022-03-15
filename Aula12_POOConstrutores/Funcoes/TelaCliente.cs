@@ -18,6 +18,7 @@ namespace Funcoes
                     "\n     0 - Sair do Cadastro" +
                     "\n     1 - Para Cadastrar Clientes" +
                     "\n     2 - Listar Clientes" ;
+                Console.WriteLine(mensagem);
                 
                 int valor = int.Parse(Console.ReadLine());
 
