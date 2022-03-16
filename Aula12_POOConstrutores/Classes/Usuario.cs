@@ -7,13 +7,13 @@ using System.Threading.Tasks;
 
 namespace Classes
 {
-    public class Cliente
+    public class Usuario : Cliente // Utilizando dois pontos : e o nome da classe declaramos uma HERANÇA
     {
-
+ 
         //Criando um construtor ( Basta criar um método com o mesmo nome da classe)
         //Construtor já passando parametros.
-        
-        public Cliente(string nome, string telefone, int id)
+
+        public Usuario(string nome, string telefone, int id)
         {
             this.Nome = nome;
             this.Telefone = telefone;
@@ -21,46 +21,38 @@ namespace Classes
         }
 
         //Construtor sem parametros
-        public Cliente() { }
-        //Criar propriedades e métodos para minha classe Cliente
+        public Usuario() { }
+        //Criar propriedades e métodos para minha classe Usuario
         public string Nome;
         public string Telefone;
         public int Id;
 
-        //Criar método para gravar dados no banco de dados
-        //Método não estático, utilizado para um cliente (Um DADO)
-        public virtual void Gravar()
-        {
-                       
-                var clientes = Cliente.LerClientes();
-                clientes.Add(this);
+        public override void Gravar()
 
-                if (File.Exists(CaminhoBase()))
+        {
+            var usuarios = Usuario.LerUsuarios();
+            Usuario u = new Usuario(this.Nome, this.Telefone, this.Id);
+            usuarios.Add(u);
+
+            if (File.Exists(CaminhoBase()))
+            {
+                StreamWriter r = new StreamWriter(CaminhoBase());
+                string conteudo = "nome;telefone;id;";
+                r.WriteLine(conteudo);
+                foreach (Usuario c in usuarios)
                 {
-                    StreamWriter r = new StreamWriter(CaminhoBase());
-                    string conteudo = "nome;telefone;id;";
-                    r.WriteLine(conteudo);
-                    foreach (Cliente c in clientes)
-                    {
-                        var linha = c.Nome + ";" + c.Telefone + ";" + c.Id + ";";
-                        r.WriteLine(linha);
-                    }
-                    r.Close();
+                    var linha = c.Nome + ";" + c.Telefone + ";" + c.Id + ";";
+                    r.WriteLine(linha);
                 }
-                  
+                r.Close();
+            }
+
+           
         }
 
-        private static string CaminhoBase()
+        public static List<Usuario> LerUsuarios()
         {
-            return ConfigurationManager.AppSettings["base_clientes"];
-        }
-        
-
-        //Criar método para ler os dados do banco de dados
-        //Método estático é usado para realizar uma ação com vários clientes(VÁRIOS DADOS).
-        public static List<Cliente> LerClientes()
-        {
-            var clientes = new List<Cliente>(); // Instanciando variavel que retorna os dados
+            var usuarios = new List<Usuario>(); // Instanciando variavel que retorna os dados
             if (File.Exists(CaminhoBase()))
             {
                 using (StreamReader arquivo = File.OpenText(CaminhoBase()))
@@ -75,9 +67,9 @@ namespace Classes
 
                         //Utilizando construtor tradicional
 
-                        var cliente = new Cliente(ClienteArquivo[0], ClienteArquivo[1], int.Parse(ClienteArquivo[2]));
-                        
-                        
+                        var usuario = new Usuario(ClienteArquivo[0], ClienteArquivo[1], int.Parse(ClienteArquivo[2]));
+
+
                         //Utilizando construtor automatico com chaves para ler valores.
                         /*
                         var cliente = new Cliente { 
@@ -97,22 +89,19 @@ namespace Classes
                         cliente.Id = int.Parse(ClienteArquivo[2]);
                         */
 
-                        clientes.Add(cliente);
+                        usuarios.Add(usuario);
 
 
 
                     }
                 }
             }
-            return clientes;
+            return usuarios;
         }
-
-
-
-
-
-
-        // Praticando métodos privados.
+        private static string CaminhoBase()
+        {
+            return ConfigurationManager.AppSettings["base_usuarios"];
+        }
 
     }
 }

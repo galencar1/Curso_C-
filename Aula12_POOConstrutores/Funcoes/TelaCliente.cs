@@ -31,10 +31,14 @@ namespace Funcoes
                     //Grava novos clientes no DB
 
                     var cliente = new Cliente();
+                    Console.WriteLine("Digite o Nome do Cliente: ");
                     cliente.Nome = Console.ReadLine();
+                    Console.WriteLine("Digite o Telefone do Cliente: ");
                     cliente.Telefone = Console.ReadLine();
+                    Console.WriteLine("Digite o Id do Cliente: ");
                     cliente.Id = int.Parse(Console.ReadLine());
                     cliente.Gravar();
+                    Console.WriteLine("Gravado com Sucesso.");
 
                 }
                 else
@@ -58,12 +62,12 @@ namespace Funcoes
 
 
                 //Grava novos clientes no DB
-
+                /*
                 var cliente2 = new Cliente();
                 cliente2.Nome = "Schtarden";
                 cliente2.Telefone = "3333-3333";
                 cliente2.Id = 4;
-                cliente2.Gravar();
+                cliente2.Gravar();*/
 
             }
             
