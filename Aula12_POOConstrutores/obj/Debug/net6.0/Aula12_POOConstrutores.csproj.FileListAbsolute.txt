@@ -26,3 +26,5 @@ D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\obj\Debug\net6.0\re
 D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\obj\Debug\net6.0\Aula12_POOConstrutores.pdb
 D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\obj\Debug\net6.0\Aula12_POOConstrutores.genruntimeconfig.cache
 D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\obj\Debug\net6.0\ref\Aula12_POOConstrutores.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\bin\Debug\net6.0\Componentes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Aula12_POOConstrutores\bin\Debug\net6.0\Componentes.pdb

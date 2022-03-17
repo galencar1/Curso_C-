@@ -27,10 +27,25 @@ namespace Classes
         public string Telefone;
         public int Id;
 
+        //Teste método protegido
+        protected int CalcularUmMaisDois()
+        {
+            return 1 + 2;
+        }
+
+        // Teste método Privado
+        private int CalcularTresMaisQuatro()
+        {
+            return 3 + 4;
+        }
+
+
+
         //Criar método para gravar dados no banco de dados
         //Método não estático, utilizado para um cliente (Um DADO)
         public virtual void Gravar()
         {
+            
                        
                 var clientes = Cliente.LerClientes();
                 clientes.Add(this);

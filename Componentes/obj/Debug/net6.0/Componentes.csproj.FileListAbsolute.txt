@@ -1,0 +1,12 @@
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\bin\Debug\net6.0\Componentes.deps.json
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\bin\Debug\net6.0\Componentes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\bin\Debug\net6.0\Componentes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.csproj.AssemblyReference.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.AssemblyInfoInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.AssemblyInfo.cs
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.csproj.CoreCompileInputs.cache
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\refint\Componentes.dll
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\Componentes.pdb
+D:\Documentos\My_Projects\C#\Curso_C-\Componentes\obj\Debug\net6.0\ref\Componentes.dll

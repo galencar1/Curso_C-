@@ -1,4 +1,5 @@
 ﻿using Classes;
+using Componentes;
 using Tela;
 
 namespace ProgramacaoFuncional
@@ -8,7 +9,10 @@ namespace ProgramacaoFuncional
         static void Main(string[] args)
         {
 
-            Menu.Criar();
+           // Menu.Criar();
+
+           Ferramentas f = new Ferramentas();
+            bool d = f.ValidarID("1");
 
            /* Cliente c = new Cliente();
             c.Nome = "asadad";
